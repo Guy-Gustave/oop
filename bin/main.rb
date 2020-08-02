@@ -22,7 +22,7 @@ class Game
     puts 'player2 enter your name'
     player2 = gets.chomp
     print "\n welcome #{player1} and #{player2} "
-    puts "\n Lets start!"
+    puts "\n Lets start! the game"
   end
 end
 
